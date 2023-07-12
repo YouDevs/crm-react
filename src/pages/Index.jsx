@@ -2,7 +2,7 @@
 
 const Index = () => {
   return (
-    <div>
+    <div className="min-h-screen bg-gray-100">
         <h1>Clientes</h1>
     </div>
   )
